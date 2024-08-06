@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer from India , currently working on java springboot backend development for Banking Application</h3>
 
 - 🔭 I’m currently working on **Java Backend Development , Spring boot , React , Mongo , SQL**
 
